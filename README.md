@@ -1,4 +1,4 @@
-# Set-Up-Laravel-Form-Clone
+# Set-Up-Laravel-From-Clone
 
 1. git clone {link_repository}
 2. cd {repository_name}
